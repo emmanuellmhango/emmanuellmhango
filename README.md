@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - Microsoft PowerBI Enthusiast
 - Fun fact: Data Analysis📊
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuellmhango&show_icons=true)
-
 ###🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Ruby on Rails
 - 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; Visual Studio code | Git
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuellmhango&show_icons=true)
