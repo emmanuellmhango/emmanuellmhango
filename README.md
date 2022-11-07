@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Microsoft PowerBI Enthusiast
 - Fun fact: Data Analysis📊
 
-###🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Ruby on Rails
 - 🛢 &nbsp; MySQL | Xampp
