@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-emmanuellmhango@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emmanuellmhango@gmail.com)](mailto:emmanuellmhango@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) [JS](https://img.shields.io/badge/JS-Javascript-success)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) [JS](https://img.shields.io/badge/JS-Javascript-success)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
