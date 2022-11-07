@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Mail Badge](https://img.shields.io/badge/-emmanuellmhango@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emmanuellmhango@gmail.com)](mailto:emmanuellmhango@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-mhango-421504a4/)](https://www.linkedin.com/in/emmanuel-mhango-421504a4/)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
