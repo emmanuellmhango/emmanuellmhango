@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ### About Me
 
 - A Computer Science Masters Student. & Open Source enthusiast.
-- ⭐ [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- Microsoft PowerBI Enthusiast
+- Fun fact: Data Analysis📊
 
 ### Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) [JS](https://img.shields.io/badge/JS-Javascript-success)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) [JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=Javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
