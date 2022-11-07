@@ -24,10 +24,4 @@ Here are some ideas to get you started:
 - Microsoft PowerBI Enthusiast
 - Fun fact: Data Analysis📊
 
-### Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) [JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=Javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuellmhango&show_icons=true)
