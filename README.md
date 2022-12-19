@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### About Me
 
 - A Computer Science Masters Student. & Open Source enthusiast.
-- Microsoft PowerBI Enthusiast
+- Microsoft PowerBI Associate
 - Fun fact: Data Analysis📊
 
 ### 🛠 Tech Stack
