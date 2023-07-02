@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- A full-stack engineer & IT service Manager.
+- A full-stack engineer & IT Service Manager.
 - Microsoft PowerBI Associate
 - Fun fact: Data Analysis📊
 
