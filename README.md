@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- A Computer Science Masters Student. & Open Source enthusiast.
+- A full-stack engineer & IT service Manager.
 - Microsoft PowerBI Associate
 - Fun fact: Data Analysis📊
 
