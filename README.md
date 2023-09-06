@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- A full-stack engineer & IT Service Manager.
-- Microsoft PowerBI Associate
+- 🎓 Graduated in Computer Science.
+- 👩‍🎓 Software developer at Microverse
+- ❤️ Love to work with JS | React | React Native | Redux | RoR
+- 💻 Passionate about building dynamic and user-friendly web applications
+- 🚀 Eager to learn new technologies
+- 🌎 Collaborating remotely with developers from various locations
 - Fun fact: Data Analysis📊
 
 ### 🛠 Tech Stack
