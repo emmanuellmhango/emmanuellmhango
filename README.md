@@ -16,24 +16,58 @@ Here are some ideas to get you started:
 -->
 
 [![Mail Badge](https://img.shields.io/badge/-emmanuellmhango@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emmanuellmhango@gmail.com)](mailto:emmanuellmhango@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Emmanuel%20Mhango-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-mhango-421504a4/)](https://www.linkedin.com/in/emmanuel-mhango-421504a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Emmanuel%20Mhango-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuellmhango/)](https://www.linkedin.com/in/emmanuellmhango)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### About Me
+## 👋 About Me
 
-- 🎓 Graduated in Computer Science.
-- 👩‍🎓 Software developer at Microverse
-- ❤️ Love to work with JS | React | React Native | Redux | RoR
-- 💻 Passionate about building dynamic and user-friendly web applications
-- 🚀 Eager to learn new technologies
-- 🌎 Collaborating remotely with developers from various locations
-- Fun fact: Data Analysis📊
+- 🌍 Digital Product & Health Information Systems Professional based in Malawi.
+- 💼 Data Quality Specialist / Data Steward at BASEflow Malawi (ETH Zurich OpenWASH Programme).
+- 🎓 MSc in Computer Science (Distinction) | Microsoft Certified Power BI Data Analyst.
+- 🚀 Over 10 years of experience delivering digital transformation solutions across Digital Health, WASH, and Public Sector Information Systems.
+- 🏛️ Experienced in collaborating with government ministries, international NGOs, and global development partners to build scalable digital products.
+- 📊 Passionate about Data Governance, Digital Health, AI for Social Impact, Business Intelligence, and Open Data.
+- 💡 Currently building AI-powered decision-support systems for groundwater monitoring, digital public infrastructure, and health information systems.
+- 🤝 Always interested in collaborating on impactful open-source and public-sector technology projects.
 
-### 🛠 Tech Stack
+---
 
-- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Ruby on Rails
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio code | Git
+## 🛠 Tech Stack
 
+### Languages & Frameworks
+- 💻 JavaScript (ES6+) | TypeScript | React | React Native | Redux
+- 💎 Ruby on Rails | Node.js | HTML5 | CSS3 | Bootstrap
+
+### Data & Analytics
+- 📊 Power BI | DAX | SQL | PostgreSQL
+- 📈 Data Governance | Data Quality | Business Intelligence
+- 🗂️ FAIR Data Principles | Open Data
+
+### Digital Health & GIS
+- 🏥 DHIS2 | Health Information Systems | Interoperability (FHIR)
+- 🌍 GIS | GeoJSON | Leaflet | Mapbox
+
+### Tools & Platforms
+- 🔧 Git | GitHub | Docker | Linux | Visual Studio Code
+- ☁️ REST APIs | Postman | Firebase
+
+---
+
+## 🌟 Current Focus
+
+- 🚰 AI for Water Security & Groundwater Intelligence
+- 🏥 Digital Health & Public Sector Innovation
+- 📊 Enterprise Data Governance & Analytics
+- 🌍 Open Data & Digital Public Infrastructure
+- 🤖 Human-Centered AI for Sustainable Development
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/emmanuellmhango
+- 📧 Email: emmanuellmhango@gmail.com
+
+> *"Building technology that empowers governments, strengthens data-driven decision-making, and creates measurable social impact."*
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuellmhango&show_icons=true)
