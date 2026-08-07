@@ -70,4 +70,3 @@ Here are some ideas to get you started:
 - 📧 Email: emmanuellmhango@gmail.com
 
 > *"Building technology that empowers governments, strengthens data-driven decision-making, and creates measurable social impact."*
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuellmhango&show_icons=true)
